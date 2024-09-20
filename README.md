@@ -67,7 +67,8 @@ Site Token: SinkCool
 
 We welcome your contributions and PRs.
 
-- [ ] Browser Extension
+- [x] Browser Extension
+      - [Skin Tool](https://github.com/zhuzhuyule/sink-extension)
 - [ ] Raycast Extension
 - [ ] Apple Shortcuts
 - [ ] Enhanced Link Management (with Cloudflare D1)
@@ -77,6 +78,8 @@ We welcome your contributions and PRs.
 - [ ] Support for Other Deployment Platforms
 
 ## 🏗️ Deployment
+
+> Video tutorial: <https://www.youtube.com/watch?v=MkU23U2VE9E>
 
 1. [Fork](https://github.com/ccbikai/Sink/fork) the repository to your GitHub account.
 2. Create a [Cloudflare Pages](https://developers.cloudflare.com/pages/) project.
